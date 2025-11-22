@@ -8,7 +8,7 @@ body{
 form{
     color: rgb(255, 255, 255);
     background-color: rgb(30, 53, 137);
-    width: 40%;
+    width: 640px;
     border: 7px solid rgb(83, 144, 149);
     border-radius: 2px;
     box-shadow:1px 1px 1500000px rgb(54, 98, 102) ;
@@ -89,4 +89,5 @@ h2{
     100%{
         border-color: rgb(0, 20, 99);
     }
+
 }

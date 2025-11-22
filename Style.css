@@ -1,0 +1,92 @@
+html{
+    font-family: 'Segoe UI';
+}
+body{
+    background-image: url("data:image/jpeg;base64,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");
+    background-size: cover;
+}
+form{
+    color: rgb(255, 255, 255);
+    background-color: rgb(30, 53, 137);
+    width: 40%;
+    border: 7px solid rgb(83, 144, 149);
+    border-radius: 2px;
+    box-shadow:1px 1px 1500000px rgb(54, 98, 102) ;
+    animation: Form 22s infinite alternate;
+}
+input{
+    background-color: rgb(30, 53, 137);
+    border: 3px solid rgb(83, 144, 149);
+    border-top: 3px solid rgb(30, 53, 137);
+    border-left: 3px solid rgb(30, 53, 137);
+    border-right: 3px solid rgb(30, 53, 137);
+    color: rgb(236, 236, 236);
+    width: 80%;
+}
+input:hover{
+    border: 3px solid rgb(9, 118, 128);
+    border-top: 3px solid rgb(30, 53, 137);
+    border-left: 3px solid rgb(30, 53, 137);
+    border-right: 3px solid rgb(30, 53, 137);
+}
+input[type=text]::placeholder{
+    color: rgb(83, 144, 149);
+    text-shadow: 0.4px 0.4px 0.4px rgb(83, 144, 149);
+}
+input[type=text]::placeholder:hover{
+    color: rgb(83, 144, 149);
+}
+input[type=email]::placeholder{
+    color: rgb(83, 144, 149);
+    text-shadow: 0.4px 0.4px 0.4px rgb(83, 144, 149);
+}
+input[type=email]::placeholder:hover{
+    color: rgb(83, 144, 149);
+}
+.btn{
+    width: 121px;
+    height: 40px;
+    border: 2px solid wheat;
+    border-radius: 3px;
+    cursor: pointer;
+    background-color: rgb(30, 53, 137);
+    color: white;
+    font-size: 12px;
+}
+h2{
+    font-size: 42px;
+    text-shadow: 1px 1px 10px white;
+}
+.btn:hover{
+    /* background-color: rgb(255, 255, 255);
+    color: rgb(0, 53, 100); */
+    box-shadow: 1px 1px 16px white;
+    border: 2px solid wheat;
+    transition: 0.1s;
+}
+@keyframes Form {
+    0%{
+        border-color: rgb(26, 142, 153);
+    }
+    50%{
+        border-color: rgb(17, 115, 123);
+    }
+    60%{
+        border-color: rgb(26, 111, 153);
+    }
+    70%{
+        border-color: rgb(18, 76, 104);
+    }
+    80%{
+        border-color: rgb(10, 73, 198);
+    }
+    80%{
+        border-color: rgb(7, 54, 148);
+    }
+    80%{
+        border-color: rgb(0, 31, 157);
+    }
+    100%{
+        border-color: rgb(0, 20, 99);
+    }
+}
